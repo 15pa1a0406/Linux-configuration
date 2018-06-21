@@ -5,61 +5,60 @@
 
 ### Server Details
 
-Server IP Address 13.126.138.228
+Server IP Address 13.232.99.160
 
-Hosted site Url [http://13.126.138.228.xip.io/](http://13.126.138.228.xip.io/)
+Hosted site Url [http://13.232.99.160.xip.io/](http://13.232.99.160.xip.io/)
 
 ### Steps to connect as grader:
 
   save private key provided in your local machine and run the following command
   ```
-  ssh -i path/to/privatekey -p 2200 grader@13.126.138.228
+  ssh -i path/to/privatekey -p 2200 grader@13.232.99.160
     
   ```
   
 ### Id_rsa key
 ```
 -----BEGIN RSA PRIVATE KEY-----
-MIIEpQIBAAKCAQEApi/1V2hRf505MOUEAUyyz/m/qzov120lGYMEqNtMmUmuAGor
-BylL49FcajsYB5pm9hUPK5GxnsyBFrum3jqKWHbr6+wRq8YKUbDp5Quxo8yWHpn9
-KXMhsZZn4LpZO1kL6DR3ey5XD900+NmEGEqAh/Tlk2vSY7fGN3Qtlc1FPKlSrQEi
-XgTbjbpzQEoGqc1E5IkuBG1n7T5BN54H3sSiGWhsiOgZ1po7uzLsdeHe2T8IVBAs
-UObE7JH6+LXDmYQwxZXVmoFgkb7k0LnBQb1akKNXOBskIduMEzgdFlGF7C8YR8hC
-kIkgyAWmvaPmjzQPrHJ9AZLLVar0wTc3QFwh6wIDAQABAoIBAQCKWiLGQfKXayzR
-p9dNvayfuCv5QNfTYOoh8xFOAkQi2VQixEBOFfM4FnP5fHjk24YcGCwo+YIF0fsm
-EdM570J9o4OFRWLwvk6Y88/E/5dD5m6Ty18XwuGqFq0kSf8/iUKAbi2KP2n7qw0O
-nwd5sYyPozH9KSZeHgDG6dGJhPq/JGBQmqQdNuQUsB5O8fV37qQnAhqZTUHhsAmE
-1P5EbZ90Apo+oSELcKOlJPssggXs3w3KRJUsgjOqyTmUTB0JlwG73akLz7CROZv0
-J2qjr+HYzxsErZcKku1ZnG4JuJYof+9qhYSY7lyuTU5IMYCko00Fpv4m3j+OVX4I
-JPpYlI4BAoGBANJBwxnAzYqjflYT1NwoSlgQ9D2c1S8NAOfiZsLu58onNatxW7f2
-azdB/+FpuyCFJOFjXY4g24lVxxZX0u4Mt4qRDnYMeOeCBvAES5xgctdrCY2Fyyr3
-pUcoGBLSR6s5QjOTe1PSgjYge96F4okmxAHI/ydyVpkKvhfTYTIYSO2DAoGBAMpX
-vzZycp4vqG5B2jGqod+pgun4TJIkn1eVVeJ4vZhGuJ5Aj2MElhjw+dX2sYrokuUh
-3A+eSr50uU4xc1gTYwsD4lbNR2a9PYZgTxHCYvXRcGeO1l/m5kdpgLLaAP8HgSBD
-cTJ3OBA07fIocP62MfX5ILxYTGHUgs0su7uYnXV5AoGBAIdw92Yajg1V3mdCpSch
-CSsL2NnrsmR5wvCdJkdCMKxHb8o93rB1m4FgEZ46RuHfAu/x221X+zPPvszEzEqu
-hHlNkfw3cpbnauKoUbCtbK0Z9XBmFIdcOerJiCBvtt00qFGjGpnXjCuj50dkBZcG
-EtN3j+3wOJqjkeq1LvJfNHNTAoGANXTNHXNK+KOamdZn8KslrNM5tNpWUF3AgwD+
-+Z/wZuR4LcbcmspBZUF0n6RW713WQRaa7r1g/cQUmKXT1Tb5+ZUDHO+Kp4fjUzbq
-bMSwJEU6rwE7fYag28jxqU6S6M1wvbdTloOMmiuBmXI5t/EmbddtYJTrSQU9sTra
-NgtxvfECgYEAqzcFrCgL861rF6gfo+EBhpRRXEn0iP9PyPqDM1wEQMcdFBLkW3Eb
-IEBXxZFmdB28G1HTseLJ58vsb4w2bzul3aNR4m4a77DlVi+pUDr6fAJKc2AQ2UgL
-5/Y3TBKHLaVbAzepq9sOCy5cRI3GeUIiEPY9w8MhDg1rLJ+E//6VksQ=
------END RSA PRIVATE KEY----
+MIIEpAIBAAKCAQEA0nuw1qCJKtoqLjhYm4nm4e+KbGQkA3WQTypf4u364DXvpD7l
+y2Nk6dsdiKXfrpWWM5TpLSaYVp5tk07iZHHtQQQXX12614frcy+H3b+qXdnerZBh
+OAHuqIoortLk/ux0md5EZyn6j0Jig9aRSTDajjdjAZ0bFsq4jan2MI9YFjwAn3k8
+LbujIDqyiRwUVIaqki3CZwljCSf9bA1cAf6kj/o5OypDQrJJXyzysY2kVWzbhL0s
+6GLE5v1NIIJRTfzm0LXdIszBK7g0NlZF1+EPXl/vWv9K++ZRm6DJvh6Lxv/WcQCk
+KSt460aOGAZRardHRn/xwnN1B6dMRvOSfoLQtwIDAQABAoIBAHL0jQtbWC7oQhtG
+ONaSBWAmJJK4Spb9EVi7Su00jk0ACCbLF1Pyr/2s5z9nYHgISKVZUdSP/KlqE2xd
+q/Wx5yMYKe+y0EXAfQ5GykyIznI9eImQjhg5re+srTV2Bw1XdQNISlGRsr+lQQrC
+GE1B+kur4k3SUSYsh4kPZ170Gubg1iIkfwjoHQJhp/XKXMje4WWi1XFkO6jbKVjE
+eZ6I/Fu1u9/bTyTyIFZBMv2ewkkr3gRF1YM52TYZQuo13s9cs3mC2czh6MJGUP8S
+F1eRBFoJGX2A1gnp0rzMrdyMD8BOS1IL8OskFxXfSCIFj48Ndvg++XOgR0/Vl5Xv
+RPBERBkCgYEA+r/tb+LgA1rGX/6X3gYs7hcrWsEVZpICpCxfZz/AzXTjZyOIMqU4
+UPqJ1yI8QAduZGacA0t9+gI1yvAaLuDF5AiKYxSu/hNi2oHDWdDZVkhtYyxNc+OB
+87GhWOUpFOPEqtGOkcVApied8uLWBFiCqppcXFHHOFEVIu6UWtlwP3MCgYEA1uPt
+CAoQkp1j07FmnoUGTbIhSaScW0vY9+vvbMXxLRtCmGfCHTOFcpYa9oxdqJg/V4Z3
+qcmkhs4EfQk+H0GrHUIKpybi86ohlnX6Fwz08RoHNOY7qPGVwz/oUe8Uzam/j5vR
+SjEDxpznuYf04EnSNhyFwew482FnHciOSYHcUK0CgYEAnYUIUatCcpkJ2bAEE1Pp
+0b/4WlDFcuPyiNPfMutX4Tm2yUoG+1nTYPuir+Uv2EFS1funsmIwR2gwBsaCjERj
+zHaZCNkrfS0MgpvV7oxGm+9v2EcyeMTJFB/YbhG3lwnmuDBg0a4KiNaGYNii/aPk
+oevKbaxp7DTzhDhANjo2S4UCgYBXk5plXVy1s+kcPD9bOVGBVqhUT/7dAkNRftkb
+1mvc+zAf1qF4ryeitGQWuMvuyuV9sTKRgrlHqyyPHLYxnNy01tZqmuGBdoOrwzcC
+L+ifXgEz4OTNjG+BnEj9I1eyHY0RZOpdty4Xwph5t1voEI3YObWVe8UWA0s4CyVZ
+9c+pHQKBgQCmJdnCmfHHQe1JFt6m1SPnVTe2J1eX9QHQCyi9P4uwX8iwfF8ykG0y
+aDRGq8BhgaDkmLCRvao2B6XgDRHH39F8upUloA2MIhO29+t9rOvVNlnpAGvOFE/f
+j7gh/sAnbe76u8eqfIJcZGT6STMAY8sI8T3SoU+KnP7jGr0+x5Df6g==
+-----END RSA PRIVATE KEY-----
 ```
 ### passpharse password
 '''
 passpharse password is empty(you can directly press enter).
 
-If it didn't work try password 'varma'.
 '''
 ### id_rsa.pub key
 ```
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCmL/VXaFF/nTkw5QQBTLLP+b+rOi/XbSUZgwSo20yZSa4AaisHKUvj0VxqOxgHmmb2FQ8rkbGezIEWu6beOopYduvr7BGrxgpRsOnlC7GjzJYemf0pcyGxlmfgulk7WQvoNHd7LlcP3TT42YQYSoCH9OWTa9Jjt8Y3dC2VzUU8qVKtASJeBNuNunNASgapzUTkiS4EbWftPkE3ngfexKIZaGyI6BnWmju7Mux14d7ZPwhUECxQ5sTskfr4tcOZhDDFldWagWCRvuTQucFBvVqQo1c4GyQh24wTOB0WUYXsLxhHyEKQiSDIBaa9o+aPNA+scn0BkstVqvTBNzdAXCHr user@vinay
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSe7DWoIkq2iouOFibiebh74psZCQDdZBPKl/i7frgNe+kPuXLY2Tp2x2Ipd+ulZYzlOktJphWnm2TTuJkce1BBBdfXbrXh+tzL4fdv6pd2d6tkGE4Ae6oiiiu0uT+7HSZ3kRnKfqPQmKD1pFJMNqON2MBnRsWyriNqfYwj1gWPACfeTwtu6MgOrKJHBRUhqqSLcJnCWMJJ/1sDVwB/qSP+jk7KkNCsklfLPKxjaRVbNuEvSzoYsTm/U0gglFN/ObQtd0izMEruDQ2VkXX4Q9eX+9a/0r75lGboMm+HovG/9ZxAKQpK3jrRo4YBlFqt0dGf/HCc3UHp0xG85J+gtC3 rahul@DESKTOP-O899F43
 ```
 ### grader password
 ```
-varma
+acerahul
 ```
 ### Configuring Linux Server
 
